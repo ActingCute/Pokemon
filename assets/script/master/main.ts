@@ -11,16 +11,19 @@ export default class NewClass extends cc.Component {
 
 
     onLoad() {
+        //this.addSpirit();
         //加载猪脚
-        let _this = this;
+        // let _this = this;
         this.brendan = this.node.getComponent("spirit");
-        cc.log("this.brendan -- ", this.brendan)
-        this.brendan.schedule(function () {
-            _this.addSpirit();
-        }, 1);
+        // cc.log("this.brendan -- ", this.brendan)
+        // this.brendan.schedule(function () {
+        //     _this.addSpirit();
+        // }, 1);
     }
 
-    addSpirit() {
+    addSpirit(direction: cc.Vec2) {
+
+        cc.log("好家伙");
         this.key++;
         if (this.key > 2) {
             this.key = 1
