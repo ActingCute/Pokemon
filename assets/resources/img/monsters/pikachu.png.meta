@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "80bd8149-81f1-470c-a7f3-5266b5616227",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 267,
+  "height": 193,
+  "platformSettings": {},
+  "subMetas": {
+    "pikachu": {
+      "ver": "1.0.4",
+      "uuid": "81168cf0-62ba-4a60-ad78-01c1887fb368",
+      "rawTextureUuid": "80bd8149-81f1-470c-a7f3-5266b5616227",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 267,
+      "height": 193,
+      "rawWidth": 267,
+      "rawHeight": 193,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

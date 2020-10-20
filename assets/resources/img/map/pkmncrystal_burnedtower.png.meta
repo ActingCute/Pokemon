@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c3aa0536-be27-4a3e-8f97-3c779c39a20b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 332,
+  "height": 589,
+  "platformSettings": {},
+  "subMetas": {
+    "pkmncrystal_burnedtower": {
+      "ver": "1.0.4",
+      "uuid": "8e3fc460-e139-4a8f-b1ec-4d80c0327d8a",
+      "rawTextureUuid": "c3aa0536-be27-4a3e-8f97-3c779c39a20b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 332,
+      "height": 589,
+      "rawWidth": 332,
+      "rawHeight": 589,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

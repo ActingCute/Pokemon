@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "458171ca-51f2-4565-bbbd-88e9ff6d343a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 996,
+  "height": 2391,
+  "platformSettings": {},
+  "subMetas": {
+    "LGsafari": {
+      "ver": "1.0.4",
+      "uuid": "17efda87-e10b-42cd-a333-106023fa8024",
+      "rawTextureUuid": "458171ca-51f2-4565-bbbd-88e9ff6d343a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 996,
+      "height": 2391,
+      "rawWidth": 996,
+      "rawHeight": 2391,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

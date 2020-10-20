@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bd5f17e8-9251-4870-aa96-a360c274090d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 929,
+  "height": 1013,
+  "platformSettings": {},
+  "subMetas": {
+    "icefallcave": {
+      "ver": "1.0.4",
+      "uuid": "d9a4a4fb-b101-4eeb-b0ee-a24eed9440af",
+      "rawTextureUuid": "bd5f17e8-9251-4870-aa96-a360c274090d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 929,
+      "height": 1013,
+      "rawWidth": 929,
+      "rawHeight": 1013,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

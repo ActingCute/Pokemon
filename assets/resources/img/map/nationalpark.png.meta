@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "065ee6a2-74be-49b8-b963-12a6c9e9b9df",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 640,
+  "height": 900,
+  "platformSettings": {},
+  "subMetas": {
+    "nationalpark": {
+      "ver": "1.0.4",
+      "uuid": "cb0f1d73-3021-4999-9a21-7d5dd09b38c1",
+      "rawTextureUuid": "065ee6a2-74be-49b8-b963-12a6c9e9b9df",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 900,
+      "rawWidth": 640,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

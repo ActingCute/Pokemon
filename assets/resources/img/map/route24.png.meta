@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "878861a1-41cc-4ac2-b817-01aed845d0c4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 320,
+  "height": 289,
+  "platformSettings": {},
+  "subMetas": {
+    "route24": {
+      "ver": "1.0.4",
+      "uuid": "48e98c86-9d23-4f66-aec9-dc930950d0dc",
+      "rawTextureUuid": "878861a1-41cc-4ac2-b817-01aed845d0c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 320,
+      "height": 289,
+      "rawWidth": 320,
+      "rawHeight": 289,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

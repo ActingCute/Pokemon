@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ad26073a-8221-46a2-92ec-4012cd7b5cc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 676,
+  "height": 670,
+  "platformSettings": {},
+  "subMetas": {
+    "frtrainertower": {
+      "ver": "1.0.4",
+      "uuid": "3f372a77-f081-4883-b2cf-32e69d3f0db1",
+      "rawTextureUuid": "ad26073a-8221-46a2-92ec-4012cd7b5cc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 676,
+      "height": 670,
+      "rawWidth": 676,
+      "rawHeight": 670,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

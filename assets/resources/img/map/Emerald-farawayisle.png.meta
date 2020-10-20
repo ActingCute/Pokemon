@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9140d06e-7e29-4321-bb82-f4bd4d50d2f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 600,
+  "height": 1210,
+  "platformSettings": {},
+  "subMetas": {
+    "Emerald-farawayisle": {
+      "ver": "1.0.4",
+      "uuid": "5391f3d1-d486-4309-bfa6-77180bbbb9de",
+      "rawTextureUuid": "9140d06e-7e29-4321-bb82-f4bd4d50d2f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 600,
+      "height": 1210,
+      "rawWidth": 600,
+      "rawHeight": 1210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

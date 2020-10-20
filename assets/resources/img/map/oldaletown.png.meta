@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0a98c384-888c-4e87-83a3-79e122959010",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 831,
+  "height": 496,
+  "platformSettings": {},
+  "subMetas": {
+    "oldaletown": {
+      "ver": "1.0.4",
+      "uuid": "70ee7000-b36c-4cb6-a846-e4b1e9ca49e0",
+      "rawTextureUuid": "0a98c384-888c-4e87-83a3-79e122959010",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 831,
+      "height": 496,
+      "rawWidth": 831,
+      "rawHeight": 496,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

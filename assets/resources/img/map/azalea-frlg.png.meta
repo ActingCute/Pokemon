@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d5a82e16-ff68-43f9-aa87-d503bbc80ddf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 576,
+  "height": 485,
+  "platformSettings": {},
+  "subMetas": {
+    "azalea-frlg": {
+      "ver": "1.0.4",
+      "uuid": "0d32c7f2-bb3e-424c-b275-373851429967",
+      "rawTextureUuid": "d5a82e16-ff68-43f9-aa87-d503bbc80ddf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 576,
+      "height": 485,
+      "rawWidth": 576,
+      "rawHeight": 485,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "556de813-4fbe-4499-b401-9472f6c93d44",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 907,
+  "height": 589,
+  "platformSettings": {},
+  "subMetas": {
+    "nintendo_pokemon_red_pewter_city": {
+      "ver": "1.0.4",
+      "uuid": "de3cb2a6-a836-43f2-a9ba-fa4753c8c3fa",
+      "rawTextureUuid": "556de813-4fbe-4499-b401-9472f6c93d44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 907,
+      "height": 589,
+      "rawWidth": 907,
+      "rawHeight": 589,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

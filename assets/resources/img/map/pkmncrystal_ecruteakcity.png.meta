@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "679aa0a9-e2a2-4353-9297-8a4559325c13",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 752,
+  "height": 567,
+  "platformSettings": {},
+  "subMetas": {
+    "pkmncrystal_ecruteakcity": {
+      "ver": "1.0.4",
+      "uuid": "086e2ab7-5758-474a-a85d-c2f01ebfe9cf",
+      "rawTextureUuid": "679aa0a9-e2a2-4353-9297-8a4559325c13",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 752,
+      "height": 567,
+      "rawWidth": 752,
+      "rawHeight": 567,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8329bc1d-d5da-4a26-a0aa-d916994ec908",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 350,
+  "platformSettings": {},
+  "subMetas": {
+    "frisland2": {
+      "ver": "1.0.4",
+      "uuid": "8770f6f3-21e8-4043-80dd-811926b4731a",
+      "rawTextureUuid": "8329bc1d-d5da-4a26-a0aa-d916994ec908",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 768,
+      "height": 350,
+      "rawWidth": 768,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

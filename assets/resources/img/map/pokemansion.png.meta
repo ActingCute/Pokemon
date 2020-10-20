@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "257ce441-fc2d-4373-bb49-b0e2b6c8cca6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 664,
+  "height": 2410,
+  "platformSettings": {},
+  "subMetas": {
+    "pokemansion": {
+      "ver": "1.0.4",
+      "uuid": "3dedad06-4f08-4efe-a65c-613871530b45",
+      "rawTextureUuid": "257ce441-fc2d-4373-bb49-b0e2b6c8cca6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 664,
+      "height": 2410,
+      "rawWidth": 664,
+      "rawHeight": 2410,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cc595f37-dcff-4ffb-90d3-839aba71ae93",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 790,
+  "height": 693,
+  "platformSettings": {},
+  "subMetas": {
+    "FallarborTown": {
+      "ver": "1.0.4",
+      "uuid": "d3de9b47-69f9-42ea-911b-9b09c4861a7d",
+      "rawTextureUuid": "cc595f37-dcff-4ffb-90d3-839aba71ae93",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 790,
+      "height": 693,
+      "rawWidth": 790,
+      "rawHeight": 693,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f3214ab7-b750-4091-9c84-4363a74b864e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1099,
+  "height": 580,
+  "platformSettings": {},
+  "subMetas": {
+    "nintendo_pokemon_red_veridian_city": {
+      "ver": "1.0.4",
+      "uuid": "1811c4ab-1347-4e52-aff4-1b797f3af5ab",
+      "rawTextureUuid": "f3214ab7-b750-4091-9c84-4363a74b864e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1099,
+      "height": 580,
+      "rawWidth": 1099,
+      "rawHeight": 580,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

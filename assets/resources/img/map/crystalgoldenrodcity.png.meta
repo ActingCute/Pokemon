@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ab583896-6741-4e14-940d-a8c3c1bd0c40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 656,
+  "height": 754,
+  "platformSettings": {},
+  "subMetas": {
+    "crystalgoldenrodcity": {
+      "ver": "1.0.4",
+      "uuid": "d7161434-3ad1-4b13-948a-c0c17bac5e1f",
+      "rawTextureUuid": "ab583896-6741-4e14-940d-a8c3c1bd0c40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 656,
+      "height": 754,
+      "rawWidth": 656,
+      "rawHeight": 754,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

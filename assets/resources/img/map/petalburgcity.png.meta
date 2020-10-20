@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "aff71d77-878b-45cd-93bb-c362d78c91d9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 916,
+  "height": 1188,
+  "platformSettings": {},
+  "subMetas": {
+    "petalburgcity": {
+      "ver": "1.0.4",
+      "uuid": "9fe9b1bd-91ad-413c-a21e-e56bcccbf5d8",
+      "rawTextureUuid": "aff71d77-878b-45cd-93bb-c362d78c91d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 916,
+      "height": 1188,
+      "rawWidth": 916,
+      "rawHeight": 1188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

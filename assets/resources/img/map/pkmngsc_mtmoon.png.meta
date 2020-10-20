@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b7c05ad1-7f37-4129-9e6d-5494e27914f4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1013,
+  "height": 423,
+  "platformSettings": {},
+  "subMetas": {
+    "pkmngsc_mtmoon": {
+      "ver": "1.0.4",
+      "uuid": "5d4623e2-c91b-4cb7-8693-9545f1c97263",
+      "rawTextureUuid": "b7c05ad1-7f37-4129-9e6d-5494e27914f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1013,
+      "height": 423,
+      "rawWidth": 1013,
+      "rawHeight": 423,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4f3c3653-e78f-49b0-a92b-638aef561707",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1403,
+  "platformSettings": {},
+  "subMetas": {
+    "PokemonCrystalAnim3": {
+      "ver": "1.0.4",
+      "uuid": "df7a93ec-c4c0-46de-aa47-1475574aa66b",
+      "rawTextureUuid": "4f3c3653-e78f-49b0-a92b-638aef561707",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 1403,
+      "rawWidth": 1024,
+      "rawHeight": 1403,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

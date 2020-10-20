@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6f5d4689-b5a2-442f-a4ef-41627ae6c1de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 656,
+  "height": 634,
+  "platformSettings": {},
+  "subMetas": {
+    "ranger_ringtownbase": {
+      "ver": "1.0.4",
+      "uuid": "74b592c4-7b9d-48fa-94e7-aadeffa913b9",
+      "rawTextureUuid": "6f5d4689-b5a2-442f-a4ef-41627ae6c1de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 656,
+      "height": 634,
+      "rawWidth": 656,
+      "rawHeight": 634,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

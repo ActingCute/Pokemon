@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7ea023d0-a731-4eaf-b307-79ea724743b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 837,
+  "height": 1522,
+  "platformSettings": {},
+  "subMetas": {
+    "PokemonPinballPokedex": {
+      "ver": "1.0.4",
+      "uuid": "acf2a9b7-2bf2-484a-bf44-05a2eb8eeda7",
+      "rawTextureUuid": "7ea023d0-a731-4eaf-b307-79ea724743b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 837,
+      "height": 1522,
+      "rawWidth": 837,
+      "rawHeight": 1522,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

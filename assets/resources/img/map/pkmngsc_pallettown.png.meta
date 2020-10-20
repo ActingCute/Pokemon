@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "27062fad-c5de-430d-9e71-560d84b300cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 969,
+  "height": 410,
+  "platformSettings": {},
+  "subMetas": {
+    "pkmngsc_pallettown": {
+      "ver": "1.0.4",
+      "uuid": "1cb06eb7-5ac5-4df2-bd4a-f01fdd63e6f0",
+      "rawTextureUuid": "27062fad-c5de-430d-9e71-560d84b300cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 969,
+      "height": 410,
+      "rawWidth": 969,
+      "rawHeight": 410,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

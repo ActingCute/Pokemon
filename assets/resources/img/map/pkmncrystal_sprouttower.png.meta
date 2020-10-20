@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "23d9b14c-5739-4c25-a5d5-3d984b92609e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 268,
+  "height": 864,
+  "platformSettings": {},
+  "subMetas": {
+    "pkmncrystal_sprouttower": {
+      "ver": "1.0.4",
+      "uuid": "47ca1aeb-4736-4392-88d5-26f39b93b339",
+      "rawTextureUuid": "23d9b14c-5739-4c25-a5d5-3d984b92609e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 268,
+      "height": 864,
+      "rawWidth": 268,
+      "rawHeight": 864,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fc031044-787a-49a4-868f-763c19188f51",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 544,
+  "height": 1000,
+  "platformSettings": {},
+  "subMetas": {
+    "viridianforest": {
+      "ver": "1.0.4",
+      "uuid": "a06d48b4-21fd-40ba-aa4d-6a12e2e7b465",
+      "rawTextureUuid": "fc031044-787a-49a4-868f-763c19188f51",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 544,
+      "height": 1000,
+      "rawWidth": 544,
+      "rawHeight": 1000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

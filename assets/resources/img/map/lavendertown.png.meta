@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "89959638-5e6c-4743-9fb3-fdb527a76546",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 812,
+  "height": 1691,
+  "platformSettings": {},
+  "subMetas": {
+    "lavendertown": {
+      "ver": "1.0.4",
+      "uuid": "ad432991-c2b3-40df-8a38-7573cac08ef3",
+      "rawTextureUuid": "89959638-5e6c-4743-9fb3-fdb527a76546",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 812,
+      "height": 1691,
+      "rawWidth": 812,
+      "rawHeight": 1691,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
