@@ -6,40 +6,50 @@ const { ccclass } = cc._decorator;
 export default class NewClass extends cc.Component {
 
     brendan: cc.TypeScript = null;
-    resource: cc.SpriteFrame = null;
-    key: number = 0; //第几帧动画
 
+    speed: number = 0.5; //移动速度
+    direstion: cc.Vec2 = null;
+    stop: boolean = false;
 
     onLoad() {
-        //this.addSpirit();
-        //加载猪脚
-        // let _this = this;
-        this.brendan = this.node.getComponent("spirit");
-        // cc.log("this.brendan -- ", this.brendan)
-        // this.brendan.schedule(function () {
-        //     _this.addSpirit();
-        // }, 1);
+        this.brendan = this.node.getComponent("atlas");
+        this.brendan.startAtlas(12, 12, 12, 0.2);
     }
 
-    addSpirit(direction: cc.Vec2) {
-
-        cc.log("好家伙");
-        this.key++;
-        if (this.key > 2) {
-            this.key = 1
+    addSpirit(degree: number, direstion: cc.Vec2) {
+        this.direstion = direstion;
+        //判断方向
+        if (45 <= degree && degree <= 135) {
+            //向上
+            cc.log("master 向上");
+            this.brendan.startAtlas(12, 15, 12, 0.2);
+        } else if (135 <= degree && degree <= 225) {
+            //向左
+            cc.log("master 向左");
+            this.brendan.startAtlas(4, 7, 4, 0.2);
+        } else if (225 <= degree && degree <= 315) {
+            //向下
+            cc.log("master 向下");
+            this.brendan.startAtlas(0, 3, 0, 0.2);
+        } else {
+            //向右
+            cc.log("master 向右");
+            this.brendan.startAtlas(8, 11, 8, 0.2);
         }
-        let that = this;
-        this.brendan.loadLmg("img/people/brendan", 6 + this.key * 18, 6, 18, 25, 2, that.resource, function (err, resource: cc.SpriteFrame) {
-            //cc.log("has err -- ", err)
-            if (!err && !that.resource) {
-                that.resource = resource;
-            }
-        })
+
     }
 
     start() {
 
     }
 
-    // update (dt) {}
+    update(dt) {
+        if (this.direstion) {
+            if (!this.direstion || this.stop) return;
+            let pos: cc.Vec2 = this.node.getPosition();
+            pos.x += this.direstion.x * this.speed;
+            pos.y += this.direstion.y * this.speed;
+            this.node.setPosition(pos);
+        }
+    }
 }
