@@ -16,6 +16,8 @@ export default class _atlas extends cc.Component {
 
     defaultIndex: number = 0;//停止计时器时候显示的key
 
+    callBack: Function = null; //动画执行后再执行的函数
+
     onLoad() {
         this.sprite = this.node.getComponent(cc.Sprite);
         //从图集中获取所有帧图片
@@ -29,6 +31,9 @@ export default class _atlas extends cc.Component {
         if (this.frames.length == 0) return;
         if (this.index > this.endIndex) this.index = this.statrIndex;
         this.sprite.spriteFrame = this.frames[this.index++];
+        if (this.callBack) {
+            this.callBack();
+        }
     }
 
     stopTimer() {
@@ -40,7 +45,7 @@ export default class _atlas extends cc.Component {
         this.unschedule(this.onTimer);
     }
 
-    startAtlas(start: number, end: number, defaultIndex: number, interval: number) {
+    startAtlas(start: number, end: number, defaultIndex: number, interval: number, callBack) {
         if (interval) this.interval = interval;
         this.defaultIndex = defaultIndex;
         this.statrIndex = start;
@@ -52,6 +57,7 @@ export default class _atlas extends cc.Component {
         } else {
             this.schedule(this.onTimer, this.interval);
         }
+        this.callBack = callBack;
     }
 
     // update (dt) {}

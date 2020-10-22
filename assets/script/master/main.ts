@@ -17,26 +17,34 @@ export default class NewClass extends cc.Component {
     }
 
     addSpirit(degree: number, direstion: cc.Vec2) {
-        this.direstion = direstion;
         //判断方向
+        let _this = this;
+        let setDirestion = () => {
+            _this.direstion = direstion;
+        }
         if (45 <= degree && degree <= 135) {
             //向上
             cc.log("master 向上");
-            this.brendan.startAtlas(12, 15, 12, 0.2);
+            this.brendan.startAtlas(12, 15, 12, 0.2, setDirestion);
         } else if (135 <= degree && degree <= 225) {
             //向左
             cc.log("master 向左");
-            this.brendan.startAtlas(4, 7, 4, 0.2);
+            this.brendan.startAtlas(4, 7, 4, 0.2, setDirestion);
         } else if (225 <= degree && degree <= 315) {
             //向下
             cc.log("master 向下");
-            this.brendan.startAtlas(0, 3, 0, 0.2);
+            this.brendan.startAtlas(0, 3, 0, 0.2, setDirestion);
         } else {
             //向右
             cc.log("master 向右");
-            this.brendan.startAtlas(8, 11, 8, 0.2);
+            this.brendan.startAtlas(8, 11, 8, 0.2, setDirestion);
         }
 
+    }
+
+    stopSpirit() {
+        this.direstion = null;
+        this.brendan.stopTimer();
     }
 
     start() {

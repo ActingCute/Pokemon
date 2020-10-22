@@ -11,8 +11,6 @@ export default class _masterMove extends cc.Component {
     direstion: cc.Vec2 = null;
     stop: boolean = true;
 
-    runSpirit: cc.Scheduler = null;
-
     masterScript: cc.Node = null;//猪脚  
 
     onLoad() {
@@ -22,13 +20,10 @@ export default class _masterMove extends cc.Component {
         this.node.on(cc.Node.EventType.TOUCH_MOVE, this.onKeyDwn, this);
         this.node.on(cc.Node.EventType.TOUCH_CANCEL, this.onKeyUp, this);
         this.node.on(cc.Node.EventType.TOUCH_END, this.onKeyUp, this);
-        //cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.onKeyDwn, this);
-        //cc.systemEvent.on(cc.SystemEvent.EventType.KEY_UP, this.onKeyUp, this);
     }
 
     onKeyUp(e: cc.Event.EventTouch) {
-        this.stop = true;
-        cc.log("清除定时器")
+        this.masterScript.stopSpirit();
     }
 
     onKeyDwn(e: cc.Event.EventTouch) {
